@@ -35,3 +35,6 @@ educational content. Everything from fixing typos, to correcting
 out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
+
+# below is a brief reason I am amending this file to submit a pull request as instructed
+I am contributing here as the lab calls for a pull request even thought there is no lab to complete. So, I believe this is an exercise in making a contribution a submitting a pull request. Here it is and thank you.
